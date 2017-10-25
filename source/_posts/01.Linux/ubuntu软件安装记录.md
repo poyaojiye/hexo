@@ -1,16 +1,18 @@
 ---
-title: Markdown博客模板
-date: 2017-10-17 17:16:19
+title: ubuntu软件安装记录
+date: 2017-10-25 17:02:19
 categories:
- - 99.博客设置
+ - 01.Linux
 tags:
- - Markdown
- - 博客模板
+ - ubuntu
+ - 软件
 ---
 
-### Markdown博客模板
-
-博客内容
+1. 安装openssh-server
+1. 安装samba
+1. 安装node.js
+1. 安装git
+1. 安装gedit
 
 
 <br/>
@@ -19,8 +21,7 @@ tags:
 **欢迎评论、留言，一起交流死磕~~**
 
 > ChangeLog:
-> 1. 创建于 2017-10-17 17:16:19
-> 2. 更新于 2017-10-24 8:16:19
+> 1. 创建于 2017-10-25 17:02:19
 
 <br/>
 <br/>

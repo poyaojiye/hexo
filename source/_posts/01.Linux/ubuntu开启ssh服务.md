@@ -1,16 +1,44 @@
 ---
-title: Markdown博客模板
+title: ubuntu开启ssh服务
 date: 2017-10-17 17:16:19
 categories:
- - 99.博客设置
+ - 01.Linux
 tags:
- - Markdown
- - 博客模板
+ - ubuntu
+ - ssh
 ---
 
-### Markdown博客模板
+### 安装openssh-server
 
-博客内容
+```
+sudo apt-get update
+sudo apt-get install openssh-server
+```
+
+### 查看ssh服务
+
+```
+sudo ps -e|grep ssh #是否存在sshd进程
+```
+如果没有sshd进程，执行：
+```
+sudo service ssh start
+```
+
+### 查看ubuntu IP
+```
+ifconfig
+```
+
+### 使用ssh客户端工具连接
+
+```
+ssh 你的ip
+```
+
+### 通过主机名连接
+
+请参见另一篇
 
 
 <br/>
