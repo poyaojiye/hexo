@@ -1,6 +1,6 @@
 ---
 title: ubuntu软件安装记录
-date: 2017-10-25 17:02:19
+date: 2017-10-26 07:57:15
 categories:
  - 01.Linux
 tags:
