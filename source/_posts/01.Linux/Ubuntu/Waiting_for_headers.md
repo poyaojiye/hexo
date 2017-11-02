@@ -1,29 +1,20 @@
-
 ---
-title: 安装python、pycharm
-date: 2017-10-17 17:16:19
+title: ubuntu apt-get update时报waiting for headers
+date: 2017-10-31 11:54:10
 categories:
- - 03.Python
+ - 01.Linux
 tags:
- - 安装
- - python
- - pycharm
+ - waiting for headers
+ - apt-get update
+ - ubuntu
 ---
 
-1. 下载python
-https://www.python.org/downloads/
-
-2. 安装
+直接：
+```
+sudo rm -f /var/lib/apt/lists/*
+sudo rm -rf /var/lib/apt/lists/partial/*
+```
 <!--more-->
-3. 环境变量，path
-
-4. IDE pycharm
-http://www.jetbrains.com/pycharm/download/#section=windows
-然后搜索pycharm 激活
-http://idea.lanyus.com/
-
-5. pycharm 的使用
-http://www.cnblogs.com/programmer-tlh/p/5733689.html
 
 <br/>
 <br/>
@@ -31,8 +22,7 @@ http://www.cnblogs.com/programmer-tlh/p/5733689.html
 **欢迎评论、留言，一起交流死磕~~**
 
 > ChangeLog:
-> 1. 创建于 2017-10-17 17:16:19
-> 2. 更新于 2017-10-24 8:16:19
+> 1. 创建于 2017-10-31 11:54:10
 
 <br/>
 <br/>

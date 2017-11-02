@@ -1,29 +1,27 @@
-
 ---
-title: 安装python、pycharm
-date: 2017-10-17 17:16:19
+title: xshell中Ctrl+S锁定屏幕
+date: 2017-11-1 11:57:35
 categories:
- - 03.Python
+ - 01.Linux
 tags:
- - 安装
- - python
- - pycharm
+ - xshell
+ - Ctrl+S
+ - 锁定屏幕
 ---
 
-1. 下载python
-https://www.python.org/downloads/
+xshell中使用vim经常习惯性误触Ctrl+S,然后屏幕被锁定，按键没有反应。
+解决方法：Ctrl+Q退出
 
-2. 安装
+```
+Ctrl+S：锁定屏幕
+Ctrl+Q：解锁
+```
+原因详见:stty -a
+
+
 <!--more-->
-3. 环境变量，path
 
-4. IDE pycharm
-http://www.jetbrains.com/pycharm/download/#section=windows
-然后搜索pycharm 激活
-http://idea.lanyus.com/
 
-5. pycharm 的使用
-http://www.cnblogs.com/programmer-tlh/p/5733689.html
 
 <br/>
 <br/>
@@ -31,8 +29,7 @@ http://www.cnblogs.com/programmer-tlh/p/5733689.html
 **欢迎评论、留言，一起交流死磕~~**
 
 > ChangeLog:
-> 1. 创建于 2017-10-17 17:16:19
-> 2. 更新于 2017-10-24 8:16:19
+>> 1. 创建于 2017-11-1 11:57:35
 
 <br/>
 <br/>
