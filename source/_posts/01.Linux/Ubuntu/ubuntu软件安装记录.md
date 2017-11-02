@@ -15,6 +15,10 @@ tags:
 1. 安装gedit
 1. 安装python3 # 已自带
 1. 安装ipython3 #已自带ipython
+1. 安装pip
+1. 安装emacs
+1. 安装unzip
+1. 安装dos2unix
 
 
 <br/>
