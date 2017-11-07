@@ -82,6 +82,7 @@ npm install`
 ```
 git submodule init
 git submodule update
+git checkout master
 ```
 * 这一步的前提是在原来的机器上的源码处，把themes/next添加到了submodule中
 
