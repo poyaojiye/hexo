@@ -6,7 +6,6 @@ categories:
 tags:
  - Markdown
  - 博客模板
- mathjax: false
 ---
 
 ### Markdown博客模板

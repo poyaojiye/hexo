@@ -1,4 +1,5 @@
 ---
+mathjax: true
 title: Markdown数学公式
 date: 2017-11-7 16:05:35
 categories:
@@ -86,7 +87,7 @@ tags:
 参考地址：  
 <http://blog.csdn.net/sanqima/article/details/48576361>
 <http://www.ai-heng.cn/2017/08/03/hexo%E5%8D%9A%E5%AE%A2MathJax%E5%85%AC%E5%BC%8F%E6%B8%B2%E6%9F%93%E9%97%AE%E9%A2%98/>
-
+<http://www.jianshu.com/p/7ab21c7f0674>
 <br/>
 <br/>
 <br/>
