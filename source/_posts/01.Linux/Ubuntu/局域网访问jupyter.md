@@ -1,29 +1,23 @@
 ---
-title: ubuntu软件安装记录
-date: 2017-10-26 07:57:15
+title: 局域网访问jupyter
+date: 2017-11-6 14:49:08
 categories:
  - 01.Linux
 tags:
- - ubuntu
- - 软件
+ - jupyter
+ - 局域网
 ---
 
-1. 安装openssh-server
-1. 安装samba
-1. 安装node.js
-1. 安装git
-1. 安装gedit
-1. 安装python3 # 已自带
-1. 安装ipython
-1. 安装ipython3
-1. 安装unzip
-1. 安装setuptools
-1. 安装pip
-1. 安装emacs
-1. 安装dos2unix
-1. 安装tree
 1. 安装jupyter
+```
+sudo pip3 install jupyter
+```
 
+1. 局域网内访问jupyter
+```
+# 加上jupyter： --ip="*"
+jupyter notebook --ip="*"
+```
 
 <br/>
 <br/>
@@ -31,7 +25,8 @@ tags:
 **欢迎评论、留言，一起交流死磕~~**
 
 > ChangeLog:
-> 1. 创建于 2017-10-25 17:02:19
+>> 1. 创建于 2017-11-6 14:49:08
+
 
 <br/>
 <br/>
